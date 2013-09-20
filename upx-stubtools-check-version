@@ -1,0 +1,4 @@
+#! /bin/sh
+if test "X$1" = "X20130920"; then exit 0; fi
+echo "Outdated UPX stub tools version. Please upgrade. Stop."
+exit 1
