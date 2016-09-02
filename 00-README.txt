@@ -8,7 +8,7 @@
 
 
                     The Ultimate Packer for eXecutables
-   Copyright (c) 1996-2006 Markus Oberhumer, Laszlo Molnar & John Reiser
+   Copyright (c) 1996-2016 Markus Oberhumer, Laszlo Molnar & John Reiser
                         http://upx.sourceforge.net
 
 
@@ -32,11 +32,13 @@ can get the full source code and more information:
 
 Package         License     URL
 -------         -------     ---
+clang           LUoI-NCSA   http://llvm.org/
 crosstool       GNU GPL     http://kegel.com/crosstool/
 djasm           GNU GPL     http://www.delorie.com/djgpp/
 GNU binutils    GNU GPL     http://www.gnu.org/software/binutils/
 GNU gcc         GNU GPL     http://gcc.gnu.org/
 GNU make        GNU GPL     http://www.gnu.org/software/make/
+llvm            LUoI-NCSA   http://llvm.org/
 sstrip          GNU GPL     http://www.muppetlabs.com/~breadbox/software/
 
 
