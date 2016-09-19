@@ -9,7 +9,8 @@
 
                     The Ultimate Packer for eXecutables
    Copyright (c) 1996-2016 Markus Oberhumer, Laszlo Molnar & John Reiser
-                        http://upx.sourceforge.net
+                           https://upx.github.io
+               https://github.com/upx/upx-stubtools/releases
 
 
 
