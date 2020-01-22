@@ -1,14 +1,14 @@
-                 ooooo     ooo ooooooooo.   ooooooo  ooooo
-                 `888'     `8' `888   `Y88.  `8888    d8'
-                  888       8   888   .d88'    Y888..8P
-                  888       8   888ooo88P'      `8888'
-                  888       8   888            .8PY888.
-                  `88.    .8'   888           d8'  `888b
-                    `YbodP'    o888o        o888o  o88888o
+                 ooooo     ooo  ooooooooo.  ooooooo  ooooo
+                 `888'     `8'  `888   `Y88. `8888    d8'
+                  888       8    888   .d88'   Y888..8P
+                  888       8    888ooo88P'     `8888'
+                  888       8    888           .8PY888.
+                  `88.    .8'    888          d8'  `888b
+                    `YbodP'     o888o       o888o  o88888o
 
 
                     The Ultimate Packer for eXecutables
-   Copyright (c) 1996-2016 Markus Oberhumer, Laszlo Molnar & John Reiser
+   Copyright (c) 1996-2020 Markus Oberhumer, Laszlo Molnar & John Reiser
                            https://upx.github.io
                https://github.com/upx/upx-stubtools/releases
 
@@ -18,7 +18,7 @@ UPX STUB TOOLS
 ==============
 
 This archive contains a number of cross-compilers and other tools,
-pre-compiled for a i386-linux development platform.
+pre-compiled for a amd64-linux development platform.
 
 These tools are needed for rebuilding the UPX stubs, and the main reason
 for providing these binaries is that this way all UPX developers will
@@ -33,13 +33,13 @@ can get the full source code and more information:
 
 Package         License     URL
 -------         -------     ---
-clang           LUoI-NCSA   http://llvm.org/
+clang           LUoI-NCSA   https://llvm.org/
 crosstool       GNU GPL     http://kegel.com/crosstool/
 djasm           GNU GPL     http://www.delorie.com/djgpp/
-GNU binutils    GNU GPL     http://www.gnu.org/software/binutils/
-GNU gcc         GNU GPL     http://gcc.gnu.org/
-llvm            LUoI-NCSA   http://llvm.org/
-sstrip          GNU GPL     http://www.muppetlabs.com/~breadbox/software/
+GNU binutils    GNU GPL     https://www.gnu.org/software/binutils/
+GNU gcc         GNU GPL     https://gcc.gnu.org/
+llvm            LUoI-NCSA   https://llvm.org/
+sstrip          GNU GPL     https://www.muppetlabs.com/~breadbox/software/
 
 
 Share and Enjoy,
