@@ -8,14 +8,15 @@
 
 
                     The Ultimate Packer for eXecutables
-   Copyright (c) 1996-2020 Markus Oberhumer, Laszlo Molnar & John Reiser
+   Copyright (c) 1996-2021 Markus Oberhumer, Laszlo Molnar & John Reiser
                            https://upx.github.io
-               https://github.com/upx/upx-stubtools/releases
 
 
 
 UPX STUB TOOLS
 ==============
+
+Download: https://github.com/upx/upx-stubtools/releases
 
 This archive contains a number of cross-compilers and other tools,
 pre-compiled for a amd64-linux development platform.
@@ -33,12 +34,12 @@ can get the full source code and more information:
 
 Package         License     URL
 -------         -------     ---
-clang           LUoI-NCSA   https://llvm.org/
+clang           Apache-2.0  https://llvm.org/
 crosstool       GNU GPL     http://kegel.com/crosstool/
 djasm           GNU GPL     http://www.delorie.com/djgpp/
 GNU binutils    GNU GPL     https://www.gnu.org/software/binutils/
 GNU gcc         GNU GPL     https://gcc.gnu.org/
-llvm            LUoI-NCSA   https://llvm.org/
+llvm            Apache-2.0  https://llvm.org/
 sstrip          GNU GPL     https://www.muppetlabs.com/~breadbox/software/
 
 

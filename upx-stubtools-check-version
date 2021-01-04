@@ -1,4 +1,4 @@
 #! /bin/sh
-if test "X$1" = "X20160918"; then exit 0; fi
+if test "X$1" = "X20210104"; then exit 0; fi
 echo "Invalid UPX stub tools version '$1'. Please upgrade. Stop."
 exit 1
