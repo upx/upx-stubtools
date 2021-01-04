@@ -46,9 +46,15 @@ sstrip          GNU GPL     https://www.muppetlabs.com/~breadbox/software/
 Share and Enjoy,
 Markus
 
-
    Markus F.X.J. Oberhumer
    <markus@oberhumer.com>
+
+
+CHANGELOG
+=========
+
+Changes in v20210104 (04 Jan 2021):
+  * added clang-format-10.0.1
 
 
 # vi:ts=4:et:nowrap
