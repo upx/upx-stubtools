@@ -53,8 +53,9 @@ Markus
 CHANGELOG
 =========
 
+Changes in v20221212 (12 Dec 2022):
+  * add clang-format-15.0.6
+  * remove clang-3.9.0
+
 Changes in v20210104 (04 Jan 2021):
-  * added clang-format-10.0.1
-
-
-# vi:ts=4:et:nowrap
+  * add clang-format-10.0.1
