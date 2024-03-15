@@ -8,7 +8,6 @@
 
 
                     The Ultimate Packer for eXecutables
-   Copyright (c) 1996-2022 Markus Oberhumer, Laszlo Molnar & John Reiser
                            https://upx.github.io
 
 
@@ -18,16 +17,27 @@ UPX STUB TOOLS
 
 Download: https://github.com/upx/upx-stubtools/releases
 
+
+USAGE
+=====
+
+These tools are needed to rebuild the UPX stubs from source code, using
+a Podman/Docker container running an Ubuntu-22.04 image.
+
+For detailed usage instructions see
+
+https://github.com/upx/upx/tree/master/misc/podman/rebuild-stubs
+
+
+OVERVIEW
+========
+
 This archive contains a number of cross-compilers and other tools,
 pre-compiled for a amd64-linux development platform.
 
 These tools are needed for rebuilding the UPX stubs, and the main reason
 for providing these binaries is that this way all UPX developers will
 produce byte-identical results.
-
-To install this archive just copy or symlink this directory under the
-name $HOME/bin/bin-upx or $HOME/local/bin/bin-upx. The UPX Makefiles
-will then automatically use this directory as needed.
 
 Here is an overview of the included packages including links where you
 can get the full source code and more information:
