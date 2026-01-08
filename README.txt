@@ -22,7 +22,7 @@ USAGE
 =====
 
 These tools are needed to rebuild the UPX stubs from source code, using
-a Podman/Docker container running an Ubuntu-22.04 image.
+a Podman/Docker container running an Ubuntu-24.04 image.
 
 For detailed usage instructions see
 
